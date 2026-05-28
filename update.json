@@ -1,0 +1,14 @@
+{
+  "product": "Hydra Soft Hotel",
+  "channel": "stable",
+  "latest_version": "v2.1.0",
+  "minimum_supported_version": "v2.0.0",
+  "release_date": "2026-05-28",
+  "changelog": [
+    "تحسين استقرار واجهة الإعدادات",
+    "إصلاح آلية حفظ روابط التحديث والترخيص",
+    "تحسين فحص الترخيص السحابي وتقارير الأخطاء"
+  ],
+  "download_url": "https://github.com/your-org/hydra-soft-hotel/releases/latest",
+  "notes": "ينصح بأخذ نسخة احتياطية قبل أي تحديث رئيسي."
+}
